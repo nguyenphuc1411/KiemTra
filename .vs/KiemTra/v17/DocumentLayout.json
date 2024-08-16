@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KiemTra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\services\\ratingrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\services\\ratingrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\models\\entities\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\models\\entities\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD98D65-E539-45A9-9675-703875BE6FFD}|Frontend\\Frontend.csproj|d:\\kiemtra\\frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD98D65-E539-45A9-9675-703875BE6FFD}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD98D65-E539-45A9-9675-703875BE6FFD}|Frontend\\Frontend.csproj|d:\\kiemtra\\frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BD98D65-E539-45A9-9675-703875BE6FFD}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\services\\irating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\services\\irating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD98D65-E539-45A9-9675-703875BE6FFD}|Frontend\\Frontend.csproj|d:\\kiemtra\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD98D65-E539-45A9-9675-703875BE6FFD}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\migrations\\20240816074459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\migrations\\20240816074459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|d:\\kiemtra\\kiemtra\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39694FA-7E77-4F21-AD0B-9628E455B750}|KiemTra\\KiemTra.csproj|solutionrelative:kiemtra\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\KiemTra\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\KiemTra\\Frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T08:02:56.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Controllers\\RatingsController.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "KiemTra\\Controllers\\RatingsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA6wBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:48:25.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RatingRepos.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Services\\RatingRepos.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Services\\RatingRepos.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Services\\RatingRepos.cs",
+              "RelativeToolTip": "KiemTra\\Services\\RatingRepos.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:48:56.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRating.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Services\\IRating.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Services\\IRating.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Services\\IRating.cs",
+              "RelativeToolTip": "KiemTra\\Services\\IRating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:48:50.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\KiemTra\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\KiemTra\\Frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:59:40.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Models\\Entities\\User.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "KiemTra\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:36:34.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Score.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Models\\Entities\\Score.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Models\\Entities\\Score.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Models\\Entities\\Score.cs",
+              "RelativeToolTip": "KiemTra\\Models\\Entities\\Score.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:37:13.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Models\\Rating.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Models\\Rating.cs",
+              "RelativeToolTip": "KiemTra\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:49:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KiemTra\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "D:\\KiemTra\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:55:19.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Program.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Program.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Program.cs",
+              "RelativeToolTip": "KiemTra\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:42:08.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240816074459_InitialCreate.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Migrations\\20240816074459_InitialCreate.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Migrations\\20240816074459_InitialCreate.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Migrations\\20240816074459_InitialCreate.cs",
+              "RelativeToolTip": "KiemTra\\Migrations\\20240816074459_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:44:59.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\KiemTra\\KiemTra\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KiemTra\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\KiemTra\\KiemTra\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "KiemTra\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:40:51.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

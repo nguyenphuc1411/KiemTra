@@ -1,0 +1,56 @@
+﻿@using KiemTra.Models
+@model List<Rating>  
+<div class="container my-4">
+    <div class="d-flex justify-content-between mb-4">
+        <a asp-action="Index" asp-route-month="8" asp-route-year="2024" asp-route-page="1" class="btn btn-primary">Tháng 8</a>
+        <a asp-action="Index" asp-route-month="9" asp-route-year="2024" asp-route-page="1" class="btn btn-primary">Tháng 9</a>
+        <a asp-action="Index" asp-route-month="10" asp-route-year="2024" asp-route-page="1" class="btn btn-primary">Tháng 10</a>
+        <a asp-action="Index" asp-route-month="11" asp-route-year="2024" asp-route-page="1" class="btn btn-primary">Tháng 11</a>
+    </div>
+
+    <div class="card-body p-3">
+        <div class="row">
+            @if(Model != null)
+            {
+                foreach (var item in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card shadow-sm">
+
+                            <img src="@item.Avatar" class="card-img-top" alt="User Avatar" style="height: 200px; object-fit: cover;">
+                            <span>Top @item.Rank</span>
+                            <div class="card-body text-center">
+                                <h5 class="card-title">@item.Fullname</h5>
+                                <p class="card-text">Score: @item.TotalScore</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            
+        </div>
+
+        <nav aria-label="Page navigation">
+            <ul class="pagination justify-content-center">
+                <li class="page-item">
+                    <a asp-action="GetBangDiem" asp-route-page="">
+                        Previous
+                    </a>
+                </li>
+                @for (int i = 1; i <= 10; i++)
+                {
+                    <li class="page-item">
+                        <a class="btn" asp-action="GetBangDiem" asp-route-page="@i">
+                           @i
+                        </a>
+                    </li>
+                }
+                <li class="page-item">
+                    <a asp-action="GetBangDiem" asp-route-page="">
+                        Next
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
